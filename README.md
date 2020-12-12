@@ -14,4 +14,4 @@ Ce projet a été réalisé avec le langage R.
 
 Exemple de 5 trajectoires de 𝑋𝑛 jusqu'à l'instant n=15 :
 
-![alt text](https://github.com/JulienChoukroun/Machine-Learning-Clustering-Python/blob/main/Images/K-means.png "K-means Clustering")
+![alt text](https://github.com/JulienChoukroun/Chaine-de-Markov-R/blob/main/Images/graphe5tests.png "5 trajectoires")
